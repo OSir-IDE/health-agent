@@ -4,7 +4,11 @@ A personal multi-step agent (Python, LangGraph) that runs every morning on my ow
 
 > Personal project. It gives lifestyle suggestions only, never medical advice.
 
-<!-- TODO: add 1-2 screenshots of the Telegram report (blur anything personal) -->
+<p align="center">
+  <img src="docs/telegram_health_report.png" width="300" alt="Morning health report on Telegram">
+  &nbsp;&nbsp;
+  <img src="docs/telegram_news_digest.png" width="300" alt="Daily news digest on Telegram">
+</p>
 
 ## What it does
 
