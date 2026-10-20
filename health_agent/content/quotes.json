@@ -1,0 +1,893 @@
+[
+ {
+  "text": "Bisogna concedere riposo all'animo: riposato, si rialzerà migliore e più vigoroso.",
+  "author": "Seneca",
+  "source": "La tranquillità dell'animo, 17",
+  "themes": [
+   "riposo"
+  ]
+ },
+ {
+  "text": "Ciò che non conosce pause non dura.",
+  "author": "Ovidio",
+  "source": "Heroides, IV",
+  "themes": [
+   "riposo"
+  ]
+ },
+ {
+  "text": "Nessun luogo è più tranquillo e sgombro di affanni della propria anima.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, IV, 3",
+  "themes": [
+   "riposo",
+   "serenita"
+  ]
+ },
+ {
+  "text": "Non sono le cose a turbare gli uomini, ma i giudizi che essi danno delle cose.",
+  "author": "Epitteto",
+  "source": "Manuale, 5",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Delle cose, alcune dipendono da noi, altre no.",
+  "author": "Epitteto",
+  "source": "Manuale, 1",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Sono più le cose che ci spaventano di quelle che ci opprimono: soffriamo più nell'immaginazione che nella realtà.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 13",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Tutta l'infelicità degli uomini viene da una sola cosa: non saper restare tranquilli in una stanza.",
+  "author": "Pascal",
+  "source": "Pensieri",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Quando al mattino fai fatica ad alzarti, pensa: mi alzo per fare il lavoro di un essere umano.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, V, 1",
+  "themes": [
+   "fatica"
+  ]
+ },
+ {
+  "text": "Chi ha un perché per vivere sopporta quasi ogni come.",
+  "author": "Nietzsche",
+  "source": "Crepuscolo degli idoli",
+  "themes": [
+   "fatica"
+  ]
+ },
+ {
+  "text": "L'ostacolo all'azione fa avanzare l'azione. Ciò che sbarra la strada diventa la strada.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, V, 20",
+  "themes": [
+   "fatica",
+   "costanza"
+  ]
+ },
+ {
+  "text": "Nessun vento è favorevole per chi non sa a quale porto è diretto.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 71",
+  "themes": [
+   "fatica",
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Solo i pensieri nati camminando hanno valore.",
+  "author": "Nietzsche",
+  "source": "Crepuscolo degli idoli",
+  "themes": [
+   "cammino"
+  ]
+ },
+ {
+  "text": "Un viaggio di mille miglia comincia con un passo.",
+  "author": "Lao Tzu",
+  "source": "Tao Te Ching, 64",
+  "themes": [
+   "cammino",
+   "costanza"
+  ]
+ },
+ {
+  "text": "Non si può scendere due volte nello stesso fiume.",
+  "author": "Eraclito",
+  "source": "frammento B91",
+  "themes": [
+   "cammino",
+   "tempo"
+  ]
+ },
+ {
+  "text": "Una rondine non fa primavera, né la fa un solo giorno.",
+  "author": "Aristotele",
+  "source": "Etica Nicomachea, I",
+  "themes": [
+   "costanza"
+  ]
+ },
+ {
+  "text": "Nessuna cosa grande nasce all'improvviso.",
+  "author": "Epitteto",
+  "source": "Diatribe, I, 15",
+  "themes": [
+   "costanza"
+  ]
+ },
+ {
+  "text": "Considera ogni singolo giorno come una vita a sé.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 101",
+  "themes": [
+   "costanza",
+   "tempo"
+  ]
+ },
+ {
+  "text": "Non è che abbiamo poco tempo: è che ne sprechiamo molto.",
+  "author": "Seneca",
+  "source": "La brevità della vita, 1",
+  "themes": [
+   "tempo"
+  ]
+ },
+ {
+  "text": "Mentre si rimanda, la vita passa.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 1",
+  "themes": [
+   "tempo"
+  ]
+ },
+ {
+  "text": "Cogli l'attimo, fidandoti il meno possibile del domani.",
+  "author": "Orazio",
+  "source": "Odi, I, 11",
+  "themes": [
+   "tempo"
+  ]
+ },
+ {
+  "text": "La vita si capisce all'indietro, ma si vive in avanti.",
+  "author": "Kierkegaard",
+  "source": "Diari, 1843",
+  "themes": [
+   "tempo",
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Una vita senza ricerca non è degna di essere vissuta.",
+  "author": "Socrate",
+  "source": "Platone, Apologia",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Il nostro grande e glorioso capolavoro è vivere come si conviene.",
+  "author": "Montaigne",
+  "source": "Saggi, III, 13",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Il carattere di un uomo è il suo destino.",
+  "author": "Eraclito",
+  "source": "frammento B119",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Diventa ciò che sei.",
+  "author": "Nietzsche",
+  "source": "La gaia scienza",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "L'anima prende il colore dei pensieri.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, V, 16",
+  "themes": [
+   "riflessione",
+   "serenita"
+  ]
+ },
+ {
+  "text": "Il costo di una cosa è la quantità di vita che bisogna dare in cambio per averla.",
+  "author": "Thoreau",
+  "source": "Walden",
+  "themes": [
+   "tempo",
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Nessuno è troppo giovane o troppo vecchio per prendersi cura della salute dell'anima.",
+  "author": "Epicuro",
+  "source": "Lettera a Meneceo",
+  "themes": [
+   "riposo",
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Senza musica la vita sarebbe un errore.",
+  "author": "Nietzsche",
+  "source": "Crepuscolo degli idoli",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Quando ballo, ballo; quando dormo, dormo.",
+  "author": "Montaigne",
+  "source": "Saggi, III, 13",
+  "themes": [
+   "riposo",
+   "tempo"
+  ]
+ },
+ {
+  "text": "Una mente sana in un corpo sano.",
+  "author": "Giovenale",
+  "source": "Satire, X",
+  "themes": [
+   "riposo"
+  ]
+ },
+ {
+  "text": "Nove decimi della nostra felicità dipendono dalla salute.",
+  "author": "Schopenhauer",
+  "source": "Aforismi sulla saggezza del vivere",
+  "themes": [
+   "riposo"
+  ]
+ },
+ {
+  "text": "Un campo che non si lascia mai riposare si esaurisce presto.",
+  "author": "Seneca",
+  "source": "La tranquillità dell'animo, 17",
+  "themes": [
+   "riposo"
+  ]
+ },
+ {
+  "text": "Presto spezzerai l'arco, se lo terrai sempre teso.",
+  "author": "Fedro",
+  "source": "Favole, III, 14",
+  "themes": [
+   "riposo"
+  ]
+ },
+ {
+  "text": "Riempire la coppa fino all'orlo è peggio che fermarsi in tempo.",
+  "author": "Lao Tzu",
+  "source": "Tao Te Ching, 9",
+  "themes": [
+   "riposo",
+   "serenita"
+  ]
+ },
+ {
+  "text": "Fai poche cose, se vuoi stare sereno.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, IV, 24",
+  "themes": [
+   "riposo",
+   "serenita"
+  ]
+ },
+ {
+  "text": "Bisogna passeggiare all'aperto: il cielo libero e l'aria abbondante ristorano l'animo.",
+  "author": "Seneca",
+  "source": "La tranquillità dell'animo, 17",
+  "themes": [
+   "cammino",
+   "riposo"
+  ]
+ },
+ {
+  "text": "Stare seduti il meno possibile; non fidarsi di nessun pensiero che non sia nato all'aria aperta e in libero movimento.",
+  "author": "Nietzsche",
+  "source": "Ecce homo",
+  "themes": [
+   "cammino"
+  ]
+ },
+ {
+  "text": "Camminando si diventa camminatori, correndo corridori: ogni facoltà cresce con le azioni che le corrispondono.",
+  "author": "Epitteto",
+  "source": "Diatribe, II, 18",
+  "themes": [
+   "cammino",
+   "costanza"
+  ]
+ },
+ {
+  "text": "Soprattutto non perdere la voglia di camminare: ogni giorno cammino verso il benessere e lontano da ogni malanno.",
+  "author": "Kierkegaard",
+  "source": "Lettera a Henriette Lund, 1847",
+  "themes": [
+   "cammino"
+  ]
+ },
+ {
+  "text": "Non credo di poter conservare salute e spirito senza passare ogni giorno qualche ora a camminare per boschi e colline.",
+  "author": "Thoreau",
+  "source": "Camminare",
+  "themes": [
+   "cammino"
+  ]
+ },
+ {
+  "text": "Camminare ha qualcosa che anima e ravviva le mie idee.",
+  "author": "Rousseau",
+  "source": "Confessioni, IV",
+  "themes": [
+   "cammino"
+  ]
+ },
+ {
+  "text": "Viandante, non c'è sentiero: il sentiero si fa camminando.",
+  "author": "Antonio Machado",
+  "source": "Campi di Castiglia",
+  "themes": [
+   "cammino",
+   "costanza"
+  ]
+ },
+ {
+  "text": "Non è perché le cose sono difficili che non osiamo; è perché non osiamo che sono difficili.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 104",
+  "themes": [
+   "fatica"
+  ]
+ },
+ {
+  "text": "Il lavoro ostinato vince ogni cosa.",
+  "author": "Virgilio",
+  "source": "Georgiche, I",
+  "themes": [
+   "fatica",
+   "costanza"
+  ]
+ },
+ {
+  "text": "Chi ha cominciato è a metà dell'opera.",
+  "author": "Orazio",
+  "source": "Epistole, I, 2",
+  "themes": [
+   "fatica"
+  ]
+ },
+ {
+  "text": "Finché c'è vita, si dice, c'è speranza.",
+  "author": "Cicerone",
+  "source": "Lettere ad Attico, IX, 10",
+  "themes": [
+   "fatica"
+  ]
+ },
+ {
+  "text": "Ciò che non mi uccide mi rende più forte.",
+  "author": "Nietzsche",
+  "source": "Crepuscolo degli idoli",
+  "themes": [
+   "fatica"
+  ]
+ },
+ {
+  "text": "Abbi il coraggio di servirti della tua intelligenza.",
+  "author": "Kant",
+  "source": "Che cos'è l'Illuminismo?",
+  "themes": [
+   "fatica",
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Il principio è la parte più importante di ogni opera.",
+  "author": "Platone",
+  "source": "Repubblica, II",
+  "themes": [
+   "fatica",
+   "costanza"
+  ]
+ },
+ {
+  "text": "Sii come il promontorio contro cui si infrangono di continuo le onde: resta saldo, e intorno a lui si placa il ribollire dell'acqua.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, IV, 49",
+  "themes": [
+   "fatica",
+   "serenita"
+  ]
+ },
+ {
+  "text": "Bisogna avere ancora un caos dentro di sé per partorire una stella danzante.",
+  "author": "Nietzsche",
+  "source": "Così parlò Zarathustra, Prologo",
+  "themes": [
+   "fatica",
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Devi cambiare animo, non cielo.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 28",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Il rimedio più grande contro l'ira è l'attesa.",
+  "author": "Seneca",
+  "source": "L'ira, II",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Non essere infelice prima del tempo.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 13",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Non turbarti per il futuro: se dovrai affrontarlo, lo farai con la stessa ragione di cui ti servi ora.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, VII, 8",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Se ti affligge qualcosa di esterno, non è la cosa a turbarti ma il tuo giudizio su di essa; e sta a te cancellarlo.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, VIII, 47",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Quanta quiete guadagna chi non guarda a ciò che il vicino ha detto, fatto o pensato.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, IV, 18",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Non pretendere che le cose vadano come vuoi, ma vogli che vadano come vanno, e vivrai sereno.",
+  "author": "Epitteto",
+  "source": "Manuale, 8",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Non guastare ciò che hai desiderando ciò che non hai.",
+  "author": "Epicuro",
+  "source": "Sentenze Vaticane, 35",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Il bene supremo è come l'acqua: giova a tutte le cose e non contende.",
+  "author": "Lao Tzu",
+  "source": "Tao Te Ching, 8",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Ricorda di conservare la mente serena nelle difficoltà.",
+  "author": "Orazio",
+  "source": "Odi, II, 3",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "L'angoscia è la vertigine della libertà.",
+  "author": "Kierkegaard",
+  "source": "Il concetto dell'angoscia",
+  "themes": [
+   "serenita",
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Chi è dappertutto non è da nessuna parte.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 2",
+  "themes": [
+   "serenita",
+   "costanza"
+  ]
+ },
+ {
+  "text": "Il meglio è nemico del bene.",
+  "author": "Voltaire",
+  "source": "La Bégueule",
+  "themes": [
+   "serenita"
+  ]
+ },
+ {
+  "text": "Diventiamo giusti compiendo azioni giuste, temperanti compiendo azioni temperanti, coraggiosi compiendo azioni coraggiose.",
+  "author": "Aristotele",
+  "source": "Etica Nicomachea, II",
+  "themes": [
+   "costanza"
+  ]
+ },
+ {
+  "text": "Basta discutere di come debba essere un uomo buono: siilo.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, X, 16",
+  "themes": [
+   "costanza"
+  ]
+ },
+ {
+  "text": "Non scoraggiarti se non riesci sempre ad agire secondo i tuoi principi: quando cadi, ricomincia.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, V, 9",
+  "themes": [
+   "costanza",
+   "fatica"
+  ]
+ },
+ {
+  "text": "Affronta il difficile finché è facile, compi il grande finché è piccolo.",
+  "author": "Lao Tzu",
+  "source": "Tao Te Ching, 63",
+  "themes": [
+   "costanza"
+  ]
+ },
+ {
+  "text": "Quando vedi una persona di valore, pensa a come diventarle simile.",
+  "author": "Confucio",
+  "source": "Dialoghi, IV, 17",
+  "themes": [
+   "costanza"
+  ]
+ },
+ {
+  "text": "Tutte le cose eccellenti sono tanto difficili quanto rare.",
+  "author": "Spinoza",
+  "source": "Etica, V",
+  "themes": [
+   "costanza",
+   "fatica"
+  ]
+ },
+ {
+  "text": "Non basta avere un buon ingegno: l'essenziale è applicarlo bene.",
+  "author": "Cartesio",
+  "source": "Discorso sul metodo, I",
+  "themes": [
+   "costanza"
+  ]
+ },
+ {
+  "text": "La goccia scava la pietra.",
+  "author": "Ovidio",
+  "source": "Epistole dal Ponto, IV, 10",
+  "themes": [
+   "costanza"
+  ]
+ },
+ {
+  "text": "Tutta la nostra vita, in quanto ha una forma definita, non è che un insieme di abitudini.",
+  "author": "William James",
+  "source": "Discorsi agli insegnanti",
+  "themes": [
+   "costanza"
+  ]
+ },
+ {
+  "text": "Rivendica te stesso a te stesso, e il tempo che finora ti veniva tolto, raccoglilo e custodiscilo.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 1",
+  "themes": [
+   "tempo"
+  ]
+ },
+ {
+  "text": "Compi ogni azione come se fosse l'ultima della tua vita.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, II, 5",
+  "themes": [
+   "tempo"
+  ]
+ },
+ {
+  "text": "Non vivere come se avessi davanti diecimila anni.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, IV, 17",
+  "themes": [
+   "tempo"
+  ]
+ },
+ {
+  "text": "Il tempo è un fanciullo che gioca a dadi.",
+  "author": "Eraclito",
+  "source": "frammento B52",
+  "themes": [
+   "tempo"
+  ]
+ },
+ {
+  "text": "Fugge intanto, fugge il tempo che non torna.",
+  "author": "Virgilio",
+  "source": "Georgiche, III",
+  "themes": [
+   "tempo"
+  ]
+ },
+ {
+  "text": "Ho scritto questa lettera più lunga del solito perché non ho avuto il tempo di farla più breve.",
+  "author": "Pascal",
+  "source": "Lettere provinciali, XVI",
+  "themes": [
+   "tempo"
+  ]
+ },
+ {
+  "text": "Che cos'è il tempo? Se nessuno me lo chiede, lo so; se voglio spiegarlo a chi me lo chiede, non lo so.",
+  "author": "Agostino",
+  "source": "Confessioni, XI",
+  "themes": [
+   "tempo",
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Non è povero chi ha poco, ma chi desidera di più.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 2",
+  "themes": [
+   "riflessione",
+   "serenita"
+  ]
+ },
+ {
+  "text": "Se vivrai secondo natura non sarai mai povero; se secondo le opinioni, non sarai mai ricco.",
+  "author": "Seneca",
+  "source": "Lettere a Lucilio, 16",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Bisogna imparare a vivere per tutta la vita.",
+  "author": "Seneca",
+  "source": "La brevità della vita, 7",
+  "themes": [
+   "riflessione",
+   "costanza"
+  ]
+ },
+ {
+  "text": "L'universo è mutamento, la vita è opinione.",
+  "author": "Marco Aurelio",
+  "source": "Pensieri, IV, 3",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "L'uomo è per natura un animale politico.",
+  "author": "Aristotele",
+  "source": "Politica, I",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Tutti gli uomini per natura desiderano sapere.",
+  "author": "Aristotele",
+  "source": "Metafisica, I",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Nessuno sceglierebbe di vivere senza amici, anche possedendo tutti gli altri beni.",
+  "author": "Aristotele",
+  "source": "Etica Nicomachea, VIII",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "La meraviglia è il sentimento del filosofo: la filosofia non ha altro inizio.",
+  "author": "Platone",
+  "source": "Teeteto",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "La natura ama nascondersi.",
+  "author": "Eraclito",
+  "source": "frammento B123",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Ho indagato me stesso.",
+  "author": "Eraclito",
+  "source": "frammento B101",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Di tutti i beni che la saggezza procura per una vita felice, il più grande è l'amicizia.",
+  "author": "Epicuro",
+  "source": "Massime capitali, 27",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Se hai un giardino e una biblioteca, non ti manca nulla.",
+  "author": "Cicerone",
+  "source": "Lettere ai familiari, IX, 4",
+  "themes": [
+   "riflessione",
+   "serenita"
+  ]
+ },
+ {
+  "text": "Chi conosce gli altri è sapiente, chi conosce se stesso è illuminato.",
+  "author": "Lao Tzu",
+  "source": "Tao Te Ching, 33",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Sapere che si sa ciò che si sa, e sapere che non si sa ciò che non si sa: questo è il vero sapere.",
+  "author": "Confucio",
+  "source": "Dialoghi, II, 17",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Che cosa so io?",
+  "author": "Montaigne",
+  "source": "Saggi, II, 12",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Il cuore ha le sue ragioni, che la ragione non conosce.",
+  "author": "Pascal",
+  "source": "Pensieri",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "L'uomo è solo una canna, la più fragile della natura; ma è una canna pensante.",
+  "author": "Pascal",
+  "source": "Pensieri",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Bisogna coltivare il nostro giardino.",
+  "author": "Voltaire",
+  "source": "Candido",
+  "themes": [
+   "riflessione",
+   "costanza"
+  ]
+ },
+ {
+  "text": "Due cose riempiono l'animo di ammirazione sempre nuova: il cielo stellato sopra di me e la legge morale in me.",
+  "author": "Kant",
+  "source": "Critica della ragion pratica",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Andai nei boschi perché volevo vivere con intenzione, affrontando solo i fatti essenziali della vita.",
+  "author": "Thoreau",
+  "source": "Walden",
+  "themes": [
+   "riflessione",
+   "cammino"
+  ]
+ },
+ {
+  "text": "Semplicità, semplicità, semplicità!",
+  "author": "Thoreau",
+  "source": "Walden",
+  "themes": [
+   "riflessione",
+   "serenita"
+  ]
+ },
+ {
+  "text": "Abbi fiducia in te stesso: ogni cuore vibra a quella corda di ferro.",
+  "author": "Emerson",
+  "source": "Fiducia in se stessi",
+  "themes": [
+   "riflessione",
+   "fatica"
+  ]
+ },
+ {
+  "text": "Fatti non foste a viver come bruti, ma per seguir virtute e canoscenza.",
+  "author": "Dante",
+  "source": "Inferno, XXVI",
+  "themes": [
+   "riflessione",
+   "fatica"
+  ]
+ },
+ {
+  "text": "La mente non è un vaso da riempire, ma un fuoco da accendere.",
+  "author": "Plutarco",
+  "source": "L'arte di ascoltare",
+  "themes": [
+   "riflessione"
+  ]
+ },
+ {
+  "text": "Abbiamo due orecchie e una sola bocca, per ascoltare di più e parlare di meno.",
+  "author": "Zenone di Cizio",
+  "source": "Diogene Laerzio, VII",
+  "themes": [
+   "riflessione",
+   "serenita"
+  ]
+ },
+ {
+  "text": "Sapere è potere.",
+  "author": "Francis Bacon",
+  "source": "Meditationes Sacrae",
+  "themes": [
+   "riflessione"
+  ]
+ }
+]

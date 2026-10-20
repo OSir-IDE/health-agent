@@ -1,0 +1,10 @@
+langgraph>=0.2
+pandas>=2.0
+python-dotenv>=1.0
+requests>=2.31
+garminconnect>=0.3
+ipykernel>=6.29          # per eseguire i notebook in VS Code
+feedparser>=6.0          # feed RSS del giornale
+scikit-learn>=1.4        # raggruppamento delle notizie (TF-IDF)
+matplotlib>=3.8          # grafici del report settimanale
+pytest>=8             # opzionale: python -m pytest tests

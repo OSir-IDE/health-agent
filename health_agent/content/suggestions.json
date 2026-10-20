@@ -1,0 +1,531 @@
+{
+ "film": [
+  {
+   "title": "La città incantata",
+   "by": "Hayao Miyazaki",
+   "year": 2001,
+   "light": true,
+   "why": "un mondo immaginario costruito in ogni dettaglio"
+  },
+  {
+   "title": "Grand Budapest Hotel",
+   "by": "Wes Anderson",
+   "year": 2014,
+   "light": true,
+   "why": "ritmo, ironia e una scenografia da guardare fotogramma per fotogramma"
+  },
+  {
+   "title": "Momenti di gloria",
+   "by": "Hugh Hudson",
+   "year": 1981,
+   "light": true,
+   "why": "atletica, motivazione e perché si corre"
+  },
+  {
+   "title": "Big Fish",
+   "by": "Tim Burton",
+   "year": 2003,
+   "light": true,
+   "why": "un film su chi racconta storie e su quanto contano"
+  },
+  {
+   "title": "Shakespeare in Love",
+   "by": "John Madden",
+   "year": 1998,
+   "light": true,
+   "why": "dietro le quinte (immaginarie) del teatro elisabettiano"
+  },
+  {
+   "title": "L'attimo fuggente",
+   "by": "Peter Weir",
+   "year": 1989,
+   "light": true,
+   "why": "poesia, teatro e il coraggio di pensare con la propria testa"
+  },
+  {
+   "title": "Il labirinto del fauno",
+   "by": "Guillermo del Toro",
+   "year": 2006,
+   "light": false,
+   "why": "fiaba nera dove fantasia e storia si intrecciano"
+  },
+  {
+   "title": "Inside Llewyn Davis",
+   "by": "Joel e Ethan Coen",
+   "year": 2013,
+   "light": false,
+   "why": "una settimana nella vita di un chitarrista folk"
+  },
+  {
+   "title": "Arrival",
+   "by": "Denis Villeneuve",
+   "year": 2016,
+   "light": false,
+   "why": "linguaggio, tempo e memoria in chiave fantascientifica"
+  },
+  {
+   "title": "Il settimo sigillo",
+   "by": "Ingmar Bergman",
+   "year": 1957,
+   "light": false,
+   "why": "una partita a scacchi con la Morte: un classico da vedere almeno una volta"
+  },
+  {
+   "title": "Whiplash",
+   "by": "Damien Chazelle",
+   "year": 2014,
+   "light": false,
+   "why": "musica, disciplina e il prezzo dell'eccellenza"
+  },
+  {
+   "title": "La principessa Mononoke",
+   "by": "Hayao Miyazaki",
+   "year": 1997,
+   "light": false,
+   "why": "epica fantasy su natura e civiltà"
+  },
+  {
+   "title": "La storia fantastica",
+   "by": "Rob Reiner",
+   "year": 1987,
+   "light": true,
+   "why": "cappa e spada, ironia e una storia raccontata a letto: un classico da serata tra amici"
+  },
+  {
+   "title": "Monty Python e il Sacro Graal",
+   "by": "Terry Gilliam e Terry Jones",
+   "year": 1975,
+   "light": true,
+   "why": "la ricerca del Graal come la racconterebbe un master di D&D molto stanco"
+  },
+  {
+   "title": "Il mio vicino Totoro",
+   "by": "Hayao Miyazaki",
+   "year": 1988,
+   "light": true,
+   "why": "il film più rilassante che esista"
+  },
+  {
+   "title": "Il castello errante di Howl",
+   "by": "Hayao Miyazaki",
+   "year": 2004,
+   "light": true,
+   "why": "magia, guerra e un castello che cammina"
+  },
+  {
+   "title": "Il favoloso mondo di Amélie",
+   "by": "Jean-Pierre Jeunet",
+   "year": 2001,
+   "light": true,
+   "why": "piccoli gesti che cambiano la giornata degli altri"
+  },
+  {
+   "title": "Ritorno al futuro",
+   "by": "Robert Zemeckis",
+   "year": 1985,
+   "light": true,
+   "why": "ritmo perfetto: non invecchia mai"
+  },
+  {
+   "title": "Stardust",
+   "by": "Matthew Vaughn",
+   "year": 2007,
+   "light": true,
+   "why": "fiaba avventurosa tratta da Neil Gaiman"
+  },
+  {
+   "title": "Coco",
+   "by": "Lee Unkrich",
+   "year": 2017,
+   "light": true,
+   "why": "musica, chitarra e memoria di famiglia"
+  },
+  {
+   "title": "School of Rock",
+   "by": "Richard Linklater",
+   "year": 2003,
+   "light": true,
+   "why": "energia pura e rock insegnato male (ma bene)"
+  },
+  {
+   "title": "Sing Street",
+   "by": "John Carney",
+   "year": 2016,
+   "light": true,
+   "why": "una band improvvisata nella Dublino degli anni '80"
+  },
+  {
+   "title": "Once",
+   "by": "John Carney",
+   "year": 2007,
+   "light": true,
+   "why": "due musicisti, una chitarra e poche settimane a Dublino"
+  },
+  {
+   "title": "I sogni segreti di Walter Mitty",
+   "by": "Ben Stiller",
+   "year": 2013,
+   "light": true,
+   "why": "per quando serve la spinta a uscire dalla routine"
+  },
+  {
+   "title": "Chef - La ricetta perfetta",
+   "by": "Jon Favreau",
+   "year": 2014,
+   "light": true,
+   "why": "ripartire da zero facendo quello che ti piace"
+  },
+  {
+   "title": "Paddington 2",
+   "by": "Paul King",
+   "year": 2017,
+   "light": true,
+   "why": "gentilezza allo stato puro: perfetto per una giornata storta"
+  },
+  {
+   "title": "The Truman Show",
+   "by": "Peter Weir",
+   "year": 1998,
+   "light": true,
+   "why": "cosa succede quando ti accorgi che la tua vita è un palcoscenico"
+  },
+  {
+   "title": "Nuovo Cinema Paradiso",
+   "by": "Giuseppe Tornatore",
+   "year": 1988,
+   "light": true,
+   "why": "una lettera d'amore al cinema"
+  },
+  {
+   "title": "Il Signore degli Anelli - La compagnia dell'anello",
+   "by": "Peter Jackson",
+   "year": 2001,
+   "light": false,
+   "why": "il riferimento di ogni costruttore di mondi"
+  },
+  {
+   "title": "Dune",
+   "by": "Denis Villeneuve",
+   "year": 2021,
+   "light": false,
+   "why": "worldbuilding su scala planetaria"
+  },
+  {
+   "title": "Il ragazzo e l'airone",
+   "by": "Hayao Miyazaki",
+   "year": 2023,
+   "light": false,
+   "why": "lutto e crescita in un mondo di simboli"
+  },
+  {
+   "title": "Birdman",
+   "by": "Alejandro González Iñárritu",
+   "year": 2014,
+   "light": false,
+   "why": "un attore, un teatro di Broadway e un unico lungo piano sequenza"
+  },
+  {
+   "title": "Amadeus",
+   "by": "Miloš Forman",
+   "year": 1984,
+   "light": false,
+   "why": "genio, invidia e musica"
+  },
+  {
+   "title": "La grande bellezza",
+   "by": "Paolo Sorrentino",
+   "year": 2013,
+   "light": false,
+   "why": "Roma come non la vedi tutti i giorni"
+  },
+  {
+   "title": "Otto e mezzo",
+   "by": "Federico Fellini",
+   "year": 1963,
+   "light": false,
+   "why": "il blocco creativo trasformato in capolavoro"
+  },
+  {
+   "title": "Il posto delle fragole",
+   "by": "Ingmar Bergman",
+   "year": 1957,
+   "light": false,
+   "why": "un viaggio in auto che diventa un viaggio nella memoria"
+  },
+  {
+   "title": "Interstellar",
+   "by": "Christopher Nolan",
+   "year": 2014,
+   "light": false,
+   "why": "tempo relativo e legami che resistono alla distanza"
+  },
+  {
+   "title": "Blade Runner",
+   "by": "Ridley Scott",
+   "year": 1982,
+   "light": false,
+   "why": "cosa rende umano un essere umano"
+  },
+  {
+   "title": "Her",
+   "by": "Spike Jonze",
+   "year": 2013,
+   "light": false,
+   "why": "una storia d'amore con un'intelligenza artificiale: pertinente, di questi tempi"
+  },
+  {
+   "title": "Everything Everywhere All at Once",
+   "by": "Daniel Kwan e Daniel Scheinert",
+   "year": 2022,
+   "light": false,
+   "why": "multiverso, famiglia e caos: impegnativo ma ripaga"
+  },
+  {
+   "title": "Rush",
+   "by": "Ron Howard",
+   "year": 2013,
+   "light": false,
+   "why": "due modi opposti di vivere la competizione"
+  }
+ ],
+ "libro": [
+  {
+   "title": "Il colore della magia",
+   "by": "Terry Pratchett",
+   "year": 1983,
+   "light": true,
+   "why": "primo romanzo del Mondo Disco, fantasy che non si prende sul serio"
+  },
+  {
+   "title": "L'arte di correre",
+   "by": "Haruki Murakami",
+   "year": 2007,
+   "light": true,
+   "why": "la corsa come disciplina e come modo di pensare, anche alla scrittura"
+  },
+  {
+   "title": "On Writing",
+   "by": "Stephen King",
+   "year": 2000,
+   "light": true,
+   "why": "metà memoir, metà manuale di scrittura"
+  },
+  {
+   "title": "Il nome del vento",
+   "by": "Patrick Rothfuss",
+   "year": 2007,
+   "light": true,
+   "why": "fantasy con un protagonista musicista e un sistema magico curato"
+  },
+  {
+   "title": "Il mago di Earthsea",
+   "by": "Ursula K. Le Guin",
+   "year": 1968,
+   "light": true,
+   "why": "breve e fondativo: la magia dei veri nomi"
+  },
+  {
+   "title": "Le città invisibili",
+   "by": "Italo Calvino",
+   "year": 1972,
+   "light": false,
+   "why": "città immaginarie in poche pagine: una miniera per chi costruisce mondi"
+  },
+  {
+   "title": "Mistborn. L'ultimo impero",
+   "by": "Brandon Sanderson",
+   "year": 2006,
+   "light": false,
+   "why": "sistemi magici a regole rigorose, quasi da game design"
+  },
+  {
+   "title": "Jonathan Strange & il signor Norrell",
+   "by": "Susanna Clarke",
+   "year": 2004,
+   "light": false,
+   "why": "la magia inglese raccontata come un saggio storico"
+  },
+  {
+   "title": "Il deserto dei Tartari",
+   "by": "Dino Buzzati",
+   "year": 1940,
+   "light": false,
+   "why": "sul tempo che passa aspettando qualcosa"
+  },
+  {
+   "title": "Lettere a Lucilio",
+   "by": "Seneca",
+   "year": null,
+   "light": false,
+   "why": "filosofia pratica in piccole dosi: una lettera al giorno"
+  },
+  {
+   "title": "Musicofilia",
+   "by": "Oliver Sacks",
+   "year": 2007,
+   "light": false,
+   "why": "cosa succede nel cervello quando suoniamo e ascoltiamo musica"
+  },
+  {
+   "title": "Lo Hobbit",
+   "by": "J.R.R. Tolkien",
+   "year": 1937,
+   "light": true,
+   "why": "l'avventura da cui è partito tutto"
+  },
+  {
+   "title": "La storia infinita",
+   "by": "Michael Ende",
+   "year": 1979,
+   "light": true,
+   "why": "un libro su un libro che ti risucchia dentro"
+  },
+  {
+   "title": "Guida galattica per gli autostoppisti",
+   "by": "Douglas Adams",
+   "year": 1979,
+   "light": true,
+   "why": "assurdo, brillante, perfetto per staccare"
+  },
+  {
+   "title": "Buona Apocalisse a tutti!",
+   "by": "Terry Pratchett e Neil Gaiman",
+   "year": 1990,
+   "light": true,
+   "why": "un angelo e un demone cercano di rimandare la fine del mondo"
+  },
+  {
+   "title": "Il piccolo principe",
+   "by": "Antoine de Saint-Exupéry",
+   "year": 1943,
+   "light": true,
+   "why": "si legge in un'ora, si capisce in una vita"
+  },
+  {
+   "title": "Il barone rampante",
+   "by": "Italo Calvino",
+   "year": 1957,
+   "light": true,
+   "why": "vivere sugli alberi per coerenza"
+  },
+  {
+   "title": "Il cavaliere inesistente",
+   "by": "Italo Calvino",
+   "year": 1959,
+   "light": true,
+   "why": "un'armatura vuota che vuole esistere: breve e geniale"
+  },
+  {
+   "title": "Stardust",
+   "by": "Neil Gaiman",
+   "year": 1999,
+   "light": true,
+   "why": "una fiaba per adulti in poche sere"
+  },
+  {
+   "title": "Born to Run",
+   "by": "Christopher McDougall",
+   "year": 2009,
+   "light": true,
+   "why": "corsa di lunga distanza, un popolo di corridori e molta avventura"
+  },
+  {
+   "title": "L'ombra del vento",
+   "by": "Carlos Ruiz Zafón",
+   "year": 2001,
+   "light": true,
+   "why": "un cimitero dei libri dimenticati e un mistero da seguire"
+  },
+  {
+   "title": "Il Signore degli Anelli",
+   "by": "J.R.R. Tolkien",
+   "year": 1954,
+   "light": false,
+   "why": "il riferimento assoluto del fantasy"
+  },
+  {
+   "title": "La via dei re",
+   "by": "Brandon Sanderson",
+   "year": 2010,
+   "light": false,
+   "why": "inizio di una saga enorme, con uno dei mondi più originali del genere"
+  },
+  {
+   "title": "Il nome della rosa",
+   "by": "Umberto Eco",
+   "year": 1980,
+   "light": false,
+   "why": "giallo medievale, biblioteche e labirinti"
+  },
+  {
+   "title": "Cent'anni di solitudine",
+   "by": "Gabriel García Márquez",
+   "year": 1967,
+   "light": false,
+   "why": "realismo magico: una famiglia, un villaggio, un secolo"
+  },
+  {
+   "title": "Il maestro e Margherita",
+   "by": "Michail Bulgakov",
+   "year": 1967,
+   "light": false,
+   "why": "il diavolo in visita a Mosca: satira e fantastico"
+  },
+  {
+   "title": "Il Gattopardo",
+   "by": "Giuseppe Tomasi di Lampedusa",
+   "year": 1958,
+   "light": false,
+   "why": "cambiare tutto perché nulla cambi"
+  },
+  {
+   "title": "Sei personaggi in cerca d'autore",
+   "by": "Luigi Pirandello",
+   "year": 1921,
+   "light": false,
+   "why": "il teatro che mette in scena se stesso"
+  },
+  {
+   "title": "Uno, nessuno e centomila",
+   "by": "Luigi Pirandello",
+   "year": 1926,
+   "light": false,
+   "why": "chi siamo per noi e chi siamo per gli altri"
+  },
+  {
+   "title": "Siddharta",
+   "by": "Hermann Hesse",
+   "year": 1922,
+   "light": false,
+   "why": "un cammino di ricerca, breve e denso"
+  },
+  {
+   "title": "Norwegian Wood",
+   "by": "Haruki Murakami",
+   "year": 1987,
+   "light": false,
+   "why": "malinconia, crescita e musica dei Beatles"
+  },
+  {
+   "title": "Perché dormiamo",
+   "by": "Matthew Walker",
+   "year": 2017,
+   "light": false,
+   "why": "la scienza del sonno: dà senso ai numeri del tuo report"
+  },
+  {
+   "title": "Flow",
+   "by": "Mihaly Csikszentmihalyi",
+   "year": 1990,
+   "light": false,
+   "why": "la psicologia dell'esperienza ottimale: quando lavoro e piacere coincidono"
+  },
+  {
+   "title": "Pensieri lenti e veloci",
+   "by": "Daniel Kahneman",
+   "year": 2011,
+   "light": false,
+   "why": "come decidiamo davvero, e dove sbagliamo"
+  }
+ ]
+}

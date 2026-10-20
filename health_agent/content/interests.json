@@ -1,0 +1,18 @@
+{
+ "_nota": "Pesi da 0 a 3: più alto = più spazio nella sezione 'Per te'. Parole chiave in minuscolo, senza accenti; valgono come inizio parola (\"startup\" trova anche \"startups\").",
+ "topics": [
+  {"id": "ai", "label": "AI e dati", "icon": "🤖", "weight": 3,
+   "keywords": ["intelligenza artificiale", "ia generativa", "llm", "chatgpt", "openai", "anthropic", "claude", "gemini", "deepmind", "machine learning", "deep learning", "data science", "big data", "algoritm", "artificial intelligence", "ai model", "chatbot", "nvidia", "neural"]},
+  {"id": "tech", "label": "Tech e piattaforme", "icon": "💻", "weight": 2,
+   "keywords": ["big tech", "startup", "piattaform", "privacy", "gdpr", "cybersecurity", "cyber", "hacker", "digital markets act", "dma", "antitrust", "apple", "google", "meta", "microsoft", "amazon", "semicondut", "chip", "data breach", "platform"]},
+  {"id": "econ", "label": "Economia e mercati", "icon": "📈", "weight": 2,
+   "keywords": ["borsa", "piazza affari", "wall street", "bce", "fed", "tassi", "inflazione", "spread", "pil", "mercati", "investitor", "trading", "interest rate", "stock market", "ecb", "inflation", "earnings"]},
+  {"id": "run", "label": "Atletica e corsa", "icon": "🏃", "weight": 2,
+   "keywords": ["atletica", "maratona", "mezzofondo", "velocita", "100 metri", "staffetta", "corsa campestre", "tamberi", "jacobs", "fidal", "athletics", "marathon", "sprint", "diamond league", "world athletics"]},
+  {"id": "cult", "label": "Cultura", "icon": "🎭", "weight": 1,
+   "keywords": ["teatro", "musica", "chitarr", "concerto", "cinema", "film", "videogioc", "fantasy", "romanzo", "libro", "festival", "theatre", "video game", "novel"]},
+  {"id": "roma", "label": "Roma e università", "icon": "📍", "weight": 1,
+   "keywords": ["roma", "lazio", "campidoglio", "luiss", "universita", "ateneo", "studenti", "erasmus"]}
+ ],
+ "exclude": ["oroscopo", "meteo", "gossip", "ricetta", "pagelle", "fantacalcio"]
+}

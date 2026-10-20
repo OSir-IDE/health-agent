@@ -1,0 +1,20 @@
+[
+ {"name": "ANSA",              "url": "https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml",       "lang": "it", "general": true},
+ {"name": "Repubblica",        "url": "https://www.repubblica.it/rss/homepage/rss2.0.xml",              "lang": "it", "general": true},
+ {"name": "Open",              "url": "https://www.open.online/feed/",                                  "lang": "it", "general": true},
+ {"name": "Rai News",          "url": "https://www.rainews.it/rss/tutti",                               "lang": "it", "general": true},
+ {"name": "AGI",               "url": "https://www.agi.it/rss",                                         "lang": "it", "general": true},
+ {"name": "ANSA Economia",     "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml",     "lang": "it", "general": false},
+ {"name": "ANSA Sport",        "url": "https://www.ansa.it/sito/notizie/sport/sport_rss.xml",           "lang": "it", "general": false},
+ {"name": "ANSA Cultura",      "url": "https://www.ansa.it/sito/notizie/cultura/cultura_rss.xml",       "lang": "it", "general": false},
+ {"name": "ANSA Lazio",        "url": "https://www.ansa.it/lazio/notizie/lazio_rss.xml",                "lang": "it", "general": false},
+ {"name": "HDblog",            "url": "https://www.hdblog.it/feed/",                                    "lang": "it", "general": false},
+ {"name": "BBC",               "url": "https://feeds.bbci.co.uk/news/world/rss.xml",                    "lang": "en", "general": true},
+ {"name": "The Guardian",      "url": "https://www.theguardian.com/world/rss",                          "lang": "en", "general": true},
+ {"name": "Guardian Tech",     "url": "https://www.theguardian.com/technology/rss",                     "lang": "en", "general": false},
+ {"name": "Guardian Business", "url": "https://www.theguardian.com/business/rss",                       "lang": "en", "general": false},
+ {"name": "Guardian Athletics","url": "https://www.theguardian.com/sport/athletics/rss",                "lang": "en", "general": false},
+ {"name": "MIT Tech Review",   "url": "https://www.technologyreview.com/feed/",                         "lang": "en", "general": false},
+ {"name": "The Verge",         "url": "https://www.theverge.com/rss/index.xml",                         "lang": "en", "general": false},
+ {"name": "Ars Technica",      "url": "https://feeds.arstechnica.com/arstechnica/index",                "lang": "en", "general": false}
+]
